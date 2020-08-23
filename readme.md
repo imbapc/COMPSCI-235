@@ -13,3 +13,5 @@ This repository contains a number of projects, organised into the following bran
 04_COVID_Web_app
 
 05_hello_jinja
+
+06_lab04_robot_task_one
